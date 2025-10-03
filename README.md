@@ -6,11 +6,14 @@ This project implements a deep learning-based steganography system that uses Sta
 
 ## Key Features:
 
-High Visual Quality: Achieves SSIM of 0.9982 (near-perfect structural similarity)
-Low Distortion: MSE of 0.4282 ensures minimal visible artifacts
-Stable Diffusion Integration: Leverages pre-trained diffusion models for robust embedding
-Reversible Process: Complete recovery of both cover and secret images
+- High Visual Quality: Achieves SSIM ranging from 0.9982 to 0.9644
+- Low Distortion: MSE of 0.4282 ensures minimal visible artifacts
+- Stable Diffusion Integration: Leverages pre-trained diffusion models for robust embedding
+- Reversible Process: Complete recovery of both cover and secret images
 
+
+## Output
+<img width="1768" height="618" alt="Output" src="https://github.com/user-attachments/assets/9b9c4fff-ec4f-441f-a4ff-aba8b2d07a39" />
 
 ## Architecture
 
