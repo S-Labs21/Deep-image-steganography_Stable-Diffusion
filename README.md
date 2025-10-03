@@ -1,7 +1,7 @@
 # Deep Image Steganography using Stable Diffusion
 An approach to image steganography leveraging Stable Diffusion models to seamlessly hide secret images within cover images while maintaining visual quality.
 Overview
-This project implements a deep learning-based steganography system that uses Stable Diffusion's latent space manipulation to embed secret images into cover images. The method achieves remarkable imperceptibility with an SSIM score of 0.9982 and MSE of 0.4282, making the hidden content virtually undetectable to the human eye.
+This project implements a deep learning-based steganography system that uses Stable Diffusion's latent space manipulation to embed secret images into cover images. The method achieves remarkable imperceptibility with high SSIM scores, making the hidden content virtually undetectable to the human eye.
 
 
 ## Key Features:
